@@ -2,7 +2,7 @@ package uchidb;
 
 
 /**
- * @author aelmore
+ * @author rlourenco
  */
 public class HW0Runner {
 
