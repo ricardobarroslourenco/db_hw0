@@ -12,11 +12,13 @@ public class HW0Runner {
 	// https://www.tutorialspoint.com/java/java_using_singleton.htm
 	public static Containers<Integer, String> getContainers() {
 		// TODO fix this function
+
 		return null;
 	}
 
 
 	public static void main(String[] args){
-		
+
+		//System.out.println("Teste");
 	}
 }
